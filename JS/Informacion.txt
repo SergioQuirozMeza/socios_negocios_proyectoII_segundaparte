@@ -1,0 +1,4 @@
+seccion:2000
+Nombre: Sergio David Quiroz Meza
+Nº Cuenta: 20181031437
+Nº Grupo: 8
